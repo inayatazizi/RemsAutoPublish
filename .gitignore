@@ -1,0 +1,36 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ca
+/zh-TW
+/zh-Hant
+/zh-Hans
+/zh
+/wwwroot
+/tr-TR
+/tr
+/Syncfusion.Pdf.Portable.dll
+/sv
+/ru
+/ReportDataModels
+/refs
+/pt-PT
+/pt-BR
+/pt
+/pl
+/nl
+/nb
+/ko
+/ja
+/it
+/fr
+/fa
+/es
+/en-US
+/de
+/cs
+/appsettings.json
+/appsettings.Development.json
+/appsettings - Copy.json
